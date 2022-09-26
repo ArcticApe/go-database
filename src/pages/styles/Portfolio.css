@@ -1,0 +1,6 @@
+.card-position {
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
